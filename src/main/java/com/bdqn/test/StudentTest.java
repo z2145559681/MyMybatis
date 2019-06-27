@@ -19,6 +19,7 @@ public class StudentTest {
             for (Student student:list
                  ) {
                 System.out.println("姓名:"+student.getStu_name()+"，年龄:"+student.getStu_age()+"，地址:"+student.getStu_address());
+                System.out.println("阿斯顿发撒旦发");
             }
         }catch (Exception e){
             e.printStackTrace();
